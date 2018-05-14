@@ -1,4 +1,1 @@
-B
-sthois is the verisonC
-C
-this is the samp
+this is cloning from eclipse
